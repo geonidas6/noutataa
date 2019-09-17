@@ -1,2 +1,2 @@
 # noutataa
-just test
+noutataa all project
